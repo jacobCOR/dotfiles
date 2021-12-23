@@ -5,7 +5,7 @@
 export GEM_HOME="$HOME/.gem"
 export SYSTEM_VERSION_COMPAT=1
 export PATH=$PATH:~/.gem/bin
-export ZSH="/Users/zenith/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Python
 alias pip=pip3
